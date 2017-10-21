@@ -1,0 +1,13 @@
+<script type="text/css">
+.dotted {border-bottom:dotted 1px black;}
+.shadow {-mez-box-shadow:5px 5px 5px orange; -webkit-box-shadow:5px 5px 5px black; -box-shadow:5px 5px red;}
+a{color:black; text-decoration:none;}
+a:hover{color:black; text-decoration:none; font-weight:bold;}
+a:visited{color:black; text-decoration:none;}
+
+table.scroll th{color:black; background-color:#006600;}
+table.scroll tr{color:black;}
+table.scroll td{color:black;}
+table.scroll thead{color:black;}
+table.scroll tbody{padding:5px;}
+</script>
